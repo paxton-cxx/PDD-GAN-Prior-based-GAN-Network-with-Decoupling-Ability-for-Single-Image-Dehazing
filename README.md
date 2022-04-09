@@ -3,8 +3,8 @@ please ensure install the packages- ```pytorch```,```pytorch-lightning```,```ope
  The conda packages are provided in the ```requirements.txt```.
 
 ## The followings are some points we need to declare:
-# 1.
-Our model is in ```"./model/PDD.py"```.
+##### 1.
+Our model is in ```./model/PDD.py```.
 # 2.
 ```"main.py"``` is used to train our model.
 3."test.py" is used to evaluate the metrics of SOTS
