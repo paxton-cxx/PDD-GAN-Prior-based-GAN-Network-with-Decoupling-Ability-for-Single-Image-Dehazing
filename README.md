@@ -12,3 +12,4 @@
 ###    This file uses the resize function to make it. And "./dataset/data_test_sots_2.py"uses the pad function.
 ###    We recommend the second method.
 ### 7.All the dataset files you need to write yourself or follow as what we did.
+ 
