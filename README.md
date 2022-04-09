@@ -1,5 +1,5 @@
 # PDD-GAN-Prior-based-GAN-Network-with-Decoupling-Ability-for-Single-Image-Dehazing
-`please ensure install the packages- pytorch,pytorch-lightning,opencv,numpy.
+please ensure install the packages- '''pytorch''','''pytorch-lightning''','''opencv''',''''numpy'''.
  The conda packages are provided in the requirements.txt`
 
 The followings are some points we need to declare:
